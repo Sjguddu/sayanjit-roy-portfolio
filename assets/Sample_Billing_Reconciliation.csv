@@ -1,0 +1,6 @@
+BOQ No.,Description,BOQ Qty,Previous Qty,Current Qty,Cumulative Qty,Balance Qty,Variance,Status
+1002A,Earthwork,1000,400,250,650,350,0,Matched
+1002B,Rock Excavation,500,200,180,380,120,-20,Check
+1002C,Concrete Work,300,100,80,180,120,0,Matched
+1002D,Cable Trench Work,750,300,210,510,240,10,Check
+1002E,Foundation Work,420,160,120,280,140,0,Matched
